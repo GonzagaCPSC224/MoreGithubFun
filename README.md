@@ -2,6 +2,8 @@ More Github Fun (this is a title)!! :) :)
 ----------------------------------
 This is paragraph text...
 
+# Header added on dev branch
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex magna, accumsan in enim non, tempus eleifend dui. Fusce varius sem sit amet nunc mollis, a porttitor ipsum semper. Aliquam ipsum ipsum, volutpat at rhoncus ut, luctus ac lorem. Phasellus quis turpis nibh. Nunc nec tortor rutrum leo bibendum tincidunt eu at odio. Aliquam varius urna dolor, sed bibendum odio pretium sit amet. Aliquam iaculis ut ligula sit amet lacinia. Mauris dignissim eu metus eu aliquet.
 
 One line  
